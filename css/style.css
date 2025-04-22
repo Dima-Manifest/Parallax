@@ -139,6 +139,7 @@ z-index: 99;
   left: 10%;
   width: 50%;
   background-color: var(--violet);
+  padding-bottom: 2rem;
 }
 
 .info-box h2{
